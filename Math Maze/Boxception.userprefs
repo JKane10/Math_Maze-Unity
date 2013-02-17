@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerStats.js">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerStats.js" Line="136" Column="64" />
+      <File FileName="Assets\Scripts\DoorScripts\RiddleDoorScript.js" Line="82" Column="1" />
+      <File FileName="Assets\Scripts\DoorScripts\SwitchScript.js" Line="93" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

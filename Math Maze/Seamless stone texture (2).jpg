@@ -1,0 +1,95 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><link rel="StyleSheet" href="http://css.wlxrs.com/A0mEkv38Df-JjD10J9BRQcgGnH5TLBc3Yt1coryilUq!OHAahah2By59MQfdMd16tBCq8Lsa6xVaNuXPNb70HQ/Base/16.4.8070/NYKpPzcj59cwlx_base.css?ZfDHJ0dwkwrfIMoja3-R7w" type="text/css"/><style id="themecss" type="text/css">.t_bc,.ecxt_bc{background-color:#2672EC;}.t_bci,.ecxt_bci{background-color:#2672EC !important;}.t_blc,.ecxt_blc{background-color:#D4E3FB;}.t_blci,.ecxt_blci{background-color:#D4E3FB !important;}.t_sel{background-color:#D4D4D4;}.t_sela{background-color:#2672EC;}.t_seli{background-color:#D4D4D4;}.t_hov{background-color:#DEDEDE;}.t_hovl a:hover{background-color:#DEDEDE;}.t_hovl a.sel{background-color:#D4D4D4;}.t_hovlt a:hover .t_hovlt{background-color:#DEDEDE;}.t_hbg:hover{background-color:#DEDEDE;}.t_hdt,h1,.t_hdt a,.t_hdt a:visited,.t_hdt a:hover,.t_hdt a:link{color:#fff;}.t_hdst,.t_hdt .c_hp li .link{color:#555;}.t_hp{border-left:1px solid #555;border-right:1px solid #555;}.t_hdbg{background-color:#2672EC;}.t_hdbg .c_m{border-color:#2672EC;}.t_hdbg .c_m li a.t_seli,.t_hdbg .c_m li.c_mf > a{background:#2672EC !important;color:#fff;}.t_c_c.c_clt a:hover,.t_c_c.c_clt a:focus,.t_c_c a#c_clogoc:hover,.t_c_c a#c_clogoc:focus,.t_c_c a:hover.c_mehover,.t_c_c a:focus.c_mehover{background:#205EC3;color:#fff;}.t_c_c li.c_sm:hover,.t_c_c li.c_sm:focus,.t_c_c.c_clt h1:hover,.t_c_c.c_clt h1:focus,.t_c_c.c_clt h1.c_clh{background:#246BDE;}.t_c_c a.c_cf,.t_c_c a.c_mf,.t_c_c li.c_mf > a,.t_c_c a.c_mehover.c_cf,.t_c_c a.c_mehover.c_mf,.t_c_c span.c_mf a.c_mehover{background:#1D57B4;}h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht{color:#000 !important;}.t_hdbg{background-color:#2672EC;}a,.t_lnk a,.t_lnk a:link,.t_elnk{color:#2672EC;}a:visited,.t_lnk a:visited{color:#2672EC;}a:hover,.t_lnk a:hover{color:#2672EC;color:rgba(38,114,236,.8);}a:focus,.t_prs{color:#2672EC;color:rgba(38,114,236,.6);}.t_lnkpi a{color:#000!important;}.t_lnkpi a:hover{color:#000!important;color:rgba(0,0,0,.8)!important;}.t_lnkpi a:focus,.t_lnkpi .t_prs{color:#000;color:rgba(0,0,0,.6);}.t_lnksi a{color:#666!important;}.t_lnksi a:hover{color:#666!important;color:rgba(102,102,102,.8)!important;}.t_lnksi a:focus,.t_lnksi .t_prs{color:#666!important;color:rgba(102,102,102,.6)!important;}.t_hdbgimg{background-image:url(http://css.wlxrs.com/A0mEkv38Df-JjD10J9BRQcgGnH5TLBc3Yt1coryilUq!OHAahah2By59MQfdMd16tBCq8Lsa6xVaNuXPNb70HQ/base/16.4.8070/img/default_final_ltr.jpg);background-repeat:repeat-x;background-position:center 0px;}:root input[type=button].default,:root input[type=submit].default,:root button.default{background-color:#2672EC;color:#fff;}:root input[type=button]:hover.default,:root input[type=submit]:hover.default,:root button:hover.default{background-color:#5A94F1;}.t_cbpr{border-top-color:#2672EC !important;}.t_cbps{border-top-color:#d4d4d4 !important;}.t_cbr{background-color:#2672EC !important;}.t_cbs{background-color:#d4d4d4 !important;}.t_rc{color:#2672EC !important;}</style><script type="text/javascript">//<![CDATA[
+if(!window["$Do"]){$Do={};$Do.q=[]}(function(){var a=$Do;a.iff=function(c,b){return a.c?a.c(c,b,1,arguments):0};a.when=function(c,b){if(!a.c||!a.c(c,b,0,arguments))a.q.push({id:c,c:b,a:arguments})};a.wE=function(c,b){if(!a.c||!a.c(c,b,0,arguments,true))a.w={id:c,c:b,a:arguments}};a.remove=function(d,c){var b=a.q.indexOf({id:d,c:c,a:arguments});if(b>=0)a.q.splice(b,1)};a.register=function(){}})()
+//]]></script><title>
+	
+   There&#39;s a problem with this link
+
+</title><link href="/Content/Css/Site.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="/Content/Images/favicon.ico" type="image/x-icon" />
+    <script src="/Content/Scripts/safelinks.js" type="text/javascript"></script>
+    
+    <link href="/Content/Css/Error.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">//<![CDATA[
+var _d=document,_dh=_d.getElementsByTagName("head")[0];function _ge(a){return _d.getElementById(a)}var $U={a:"^((ftp|http|https):)?//",isAbsoluteUrl:function(b){var a=new RegExp($U.a,"i");return a.test(b)},getHost:function(c){var a=$U.a+"([^:/]*([:][^@/]*)?[@])?([-.a-z0-9]*)[^-.a-z0-9]?",b=new RegExp(a,"i");return urlHost=(String(c).search(b)<0?"":RegExp.$5).toLowerCase()},doesMatchHost:function(b,d){var e="^(mailto|tel|sms):",f=new RegExp(e,"i"),i=$U.isAbsoluteUrl(b),a=$U.getHost(b),h=f.test(b),c="."+d,g=a.substr(a.length-c.length)==c||a==""||a.charAt(0)=="#"||a==d;return (!i||g)&&!h},isLinkABookmark:function(a,b){b=b||_d;var d=b.createElement("span");d.innerHTML='<a href="#"></a>';var f=d.firstChild.href,c=a.indexOf("#"),e=a.indexOf("javascript:");if(c>-1)if(c==0||a.indexOf(f)==0)return 1;if(e==0)return 1;return 0},getUrlFragment:function(c){var a="",b=c.indexOf("#");if(b>-1)a=c.substr(b+1);return a}}
+//]]></script>
+    	<script type="text/javascript">
+    	    $Do.when('$f', 0, function () {
+    	        $footer.pageContentDiv = document.getElementById("page");
+    	        $footer.adjustFooter();
+    	    });
+	</script>
+</head>
+<body onload="start();" class="ltr SignedOut Firefox FF_Win Win6 FF_M18 FF_D0 Full RE_Gecko">
+    <div id="page">
+        <div class="banner">
+        <h1 class="bannerText">
+            
+    Microsoft
+
+        </h1>
+        </div>
+        <div class="leftRightPad40px topBottomPad18px box">
+            <div class="largeSize ">
+                
+There&#39;s a problem with this link
+
+            </div>
+            <div id="urlDiv">
+                
+            </div>
+            <div>
+                
+            </div>
+            <div id="mainDiv">
+                
+       <div class="topPad20px">
+        It looks like something&#39;s wrong with the link you&#39;re trying to open. Part of the link might have been changed, or the page might have expired.
+    </div>
+
+    <div class="topPad20px">
+        <a href ="http://go.microsoft.com/fwlink/?LinkID=188551" id="errorLearnLink"> Learn more about protecting yourself on the Internet </a>
+    </div>
+     <div id="leavePageDiv" class="topPad20px">
+        <form method="get" action="http://go.microsoft.com/fwlink">
+            <input type="hidden" name="LinkId" value="251465" />
+            <input type="submit" id="blockCloseLink" value="Leave this page" />
+        </form>
+    </div>
+
+            </div>         
+        </div>
+        <div id="m_wf">
+            
+<style type="text/css">
+
+    @-moz-keyframes FadeIn{from{opacity:0;}to{opacity:1;}}@-moz-keyframes FadeOut{from{opacity:1;}to{opacity:0;}}@-moz-keyframes ScaleIn{from{-moz-transform:scale(0.85);}to{-moz-transform:none;}}@-moz-keyframes ScaleOut{from{-moz-transform:none;}to{-moz-transform:scale(0.85);}}@-moz-keyframes FlyAwayScale{from{-moz-transform:none;}to{-moz-transform:scale(0.75);}}@-moz-keyframes Tap{from{-moz-transform:none;}to{-moz-transform:scale(1.05);}}@-moz-keyframes Untap{from{-moz-transform:scale(1.05);}to{-moz-transform:none;}}@-moz-keyframes ShowHeight{from{height:0;}}@-moz-keyframes HideHeight{to{height:0;}}@-moz-keyframes ShowWidth{from{width:0;}}@-moz-keyframes HideWidth{to{width:0;}}.fadeOnHover {-moz-transition: opacity 167ms linear 0s;}:not(.Touch) .fadeOnHoverTarget .fadeOnHover{opacity:0;}:not(.Touch) .fadeOnHoverTarget:hover .fadeOnHover{opacity:1;}.slideOnResize {-moz-transition: top 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s, left 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s, right 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s;}.transitionOnHeightChange{-moz-transition: height 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s;}.moveAndResize {-moz-transition: top 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s, height 367ms cubic-bezier(0.1, 0.9, 0.2, 1) 0s;}.NoDisplay{display: none !important;}</style>
+
+<table id="uxp_ftr_control" cellpadding="0" cellspacing="0">
+<tr>
+  <td id="uxp_ftr_left" class="t_lnksi">
+	<ul>
+    
+        <li><span id="uxp_ftr_link_trademark">&copy; 2013 Microsoft</span></li>
+            <li><a id="uxp_ftr_link_legal" target="_top" href="http&#58;//g.live.com/8seskydrive/tou">Terms</a></li>
+            <li><a id="uxp_ftr_link_privacy" target="_top" href="http&#58;//g.live.com/8seskydrive/privacy">Privacy</a></li><li><a id="uxp_ftr_link_developers" target="_top" href="http&#58;//go.microsoft.com/fwlink/&#63;LinkId&#61;214291">Developers</a></li><li><a id="uxp_ftr_link_language" href="&#63;ru&#61;http&#37;3a&#37;2f&#37;2flink.smartscreen.live.com&#37;2fOptOut">English &#40;United States&#41;</a></li></ul>
+    </td>
+</tr>
+</table>
+
+        </div>
+    </div>
+    
+<script type="text/javascript">//<![CDATA[
+var $B={'ltr':1,'SignedOut':1,'Firefox':1,'FF_Win':1,'Win6':1,'FF_M18':1,'FF_D0':1,'Full':1,'RE_Gecko':1,V:18.0};window["$BSI"]={headTime:(new Date).getTime()};window["$CSIPerf"]={lapse:[{},{s:"h",t:$BSI.headTime}],csd:{},_ttg:$BSI.headTime};var $Config={"wla":"http\u003a\u002f\u002fjs.wlxrs.com\u002f3xaTP4tWZOroge1dGlMz7w2-XuLliqg3SQbWEm6z7RvtDUztLoVufjKon-f-h0sgOzCe4dHw3HNGRCGKrlPHa095etZqROnCsy-GNW7atlej1FeutbBv9WQbvqxJ6qo1DJtdBhhj5BQsWd7zeWqtr\u0021IQXvNqW3Kw\u002fwlivestr.js","ff":1,"Themes":{"baseUrl":"http\u003a\u002f\u002fcss.wlxrs.com\u002fA0mEkv38Df-JjD10J9BRQcgGnH5TLBc3Yt1coryilUq\u0021OHAahah2By59MQfdMd16tBCq8Lsa6xVaNuXPNb70HQ\u002f","current":"base","version":"16.4.8070","url":"http\u003a\u002f\u002fcss.wlxrs.com\u002fA0mEkv38Df-JjD10J9BRQcgGnH5TLBc3Yt1coryilUq\u0021OHAahah2By59MQfdMd16tBCq8Lsa6xVaNuXPNb70HQ\u002fbase\u002f16.4.8070\u002f","genService":"\u002fHandlers\u002fThemeCss.mvc\u003ftheme\u003d\u007bthemeid\u007d\u0026version\u003d\u007bversion\u007d","uniqueServiceParams":"CSSTemplates\u003ddefault\u00252cfirefox\u0026IsRTL\u003dFalse\u0026LangDirection\u003dltr\u0026Left\u003dleft\u0026Right\u003dright\u0026IsMobile\u003dFalse\u0026IsBirthday\u003dFalse\u0026Weather\u003dClear\u0026TimeOfDay\u003d8"},"WS":{"SL":{"url":"http\u003a\u002f\u002flink.live.net\u002f"}},"imgsBase":"http\u003a\u002f\u002fsecure.wlxrs.com\u002f\u0024live.controls.images\u002f","BSI":{"enabled":0}};function SM_Check(h,i){var g=h.split("."),e=window,c=window["$Config"],b=c&&c.BSI,a=b&&b.Watson,d,f;while(g.length&&!!(e=e[g.shift()]));if(!e){document.write('<script type="text/javascript" src="'+i+'"></scr'+"ipt>");if(a&&a.enabled)try{d="//"+c.hn+"/handlers/Watson.mvc";if(a.url)d=a.url;f=new Image;d+="?xid="+b.xid+"&rid="+b.rid+"&di="+c.di+"&pn="+b.pn+"&mmn="+c.mmn+"&ec=54&msg="+h+"&sr="+a.sr;f.src=d;(SM_Check.i=SM_Check.i||[]).push(f)}catch(j){}}};
+//]]></script><script type="text/javascript" src="http://js.wlxrs.com/_D/0Dv2kgMijez!4bYpxZKAUQ/jquery-min.js"></script><script type="text/javascript">//<![CDATA[
+SM_Check("jQuery","http://js.wlxrs.com/_D/0Dv2kgMijez!4bYpxZKAUQ/jquery-min.js")
+//]]></script><script type="text/javascript">//<![CDATA[
+if (window.jQuery) jQuery.noConflict()
+//]]></script><script type="text/javascript" src="http://js.wlxrs.com/0Dv2kgMijez!4bYpxZKAUQ/wlive.js"></script><script type="text/javascript">//<![CDATA[
+SM_Check("wLive","http://js.wlxrs.com/0Dv2kgMijez!4bYpxZKAUQ/wlive.js")
+//]]></script><script type="text/javascript" src="http&#58;//js.wlxrs.com/0Dv2kgMijez&#33;4bYpxZKAUQ/animations.js"></script><script type="text/javascript" src="http&#58;//msc.wlxrs.com/nInSJHXLxAdneh0SJWzIVA/Popover.js"></script><script type="text/javascript" src="http&#58;//msc.wlxrs.com/nInSJHXLxAdneh0SJWzIVA/Popover.MsgBox.js"></script><script type="text/javascript" src="http&#58;//msc.wlxrs.com/nInSJHXLxAdneh0SJWzIVA/Popover.FramePopup.js"></script><script type="text/javascript" src="http&#58;//js.wlxrs.com/0Dv2kgMijez&#33;4bYpxZKAUQ/jsviews.js"></script><script type="text/javascript" src="http&#58;//msc.wlxrs.com/eToXM9bJLdmQx12AYtoj2Q/Notifications.js"></script>
+</body>
+</html>
+
